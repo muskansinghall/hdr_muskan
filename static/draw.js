@@ -105,3 +105,4 @@ function getTouchPos(canvasDom, touchEvent) {
     };
 }
 
+
